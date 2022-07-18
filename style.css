@@ -1,0 +1,13 @@
+.label{
+    background-color: yellow;
+    padding: 5px 20px;
+    display: inline-block;
+    border-radius: 5px;
+    border: 1px solid orange;
+    margin: 3px;
+    cursor: not-allowed;
+}
+
+.labels-container{
+    padding: 5px;
+}
